@@ -1,4 +1,3 @@
-# stepik_auto_tests_course
-Обучение автоматизации тестирования. Stack — Python + Selenium
-
-Тут я прохожу курс по автомтаизации тестирования на стеке Python Selenium — https://stepik.org/course/575/
+Тут расположены написанные мною 2 проекта по автоматизации
+1. Проект по автоматизации UI Seleium + Python
+2. 2 Проект по автоматизации API request + Python 
